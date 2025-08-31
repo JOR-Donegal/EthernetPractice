@@ -28,7 +28,7 @@ vtp primary vlan
 
 I can check the status of VTP to confirm it functions on Switch23.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Also try the command
 

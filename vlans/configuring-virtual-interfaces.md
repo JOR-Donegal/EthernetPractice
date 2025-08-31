@@ -8,7 +8,7 @@ Type the command&#x20;
 show vlan
 ```
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 We will see later in the course that we have ordinary switches which we refer to as L2 switches. We also have switches which can act like routers; we call these L2/L3 switches or multi-layer switches.
 

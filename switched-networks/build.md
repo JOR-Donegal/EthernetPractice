@@ -51,7 +51,7 @@ You should get replies. Try pinging PC2 from PC1 and make sure that also works.
 sh mac address-table
 ```
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>MAC address table for Switch21</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>MAC address table for Switch21</p></figcaption></figure>
 
 Remember, MAC addresses are unique, yours will always be different from mine. Now type the command
 
@@ -61,7 +61,7 @@ sh arp
 
 The ARP protocol is how Ethernet finds an Ethernet MAC address if it only knows the IP address.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 We can see that the MAC address at line 2 of the mac-address table corresponds to PC2 and that from the perspective of Switch21, we can find the MAC address out port gi3/2.
 
@@ -71,7 +71,7 @@ We can see that the MAC address at line 2 of the mac-address table corresponds t
 sh int gi3/3
 ```
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Find its MAC address. For me it corresponds to the third line in the MAC address table for Switch21, and it implies that from Switch21, Switch22 is connected from port gi3/3.
 
