@@ -51,7 +51,7 @@ You should get replies. Try pinging PC2 from PC1 and make sure that also works.
 sh mac address-table
 ```
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>MAC address table for Switch21</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>MAC address table for Switch21</p></figcaption></figure>
 
 Remember, MAC addresses are unique, yours will always be different from mine. Now type the command
 

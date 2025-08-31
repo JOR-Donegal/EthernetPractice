@@ -18,6 +18,6 @@ exit
 
 Do a ping test from Switch21 to see if everything is working.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Test after you complete each stage of work!
