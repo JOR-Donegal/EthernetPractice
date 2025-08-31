@@ -1,7 +1,13 @@
 # Introduction
 
-Once you have a network switch with two nodes on the same broadcast domain, you have a working network. There are a certain minimum of services we need active to make any network practical and usable.&#x20;
+On many programs we have a requirement to bring students to a basic level of proficiency in enterprise networking. Students will often cover many related topics at under-graduate level, but it does not seem to come together as an applied discipline for graduates/post-graduates. These exercises are intended to bring the student to basic competence in switching and routing for Enterprise LANs and the sequence is designed for students who have already completed basic networking and operating systems modules. It is intended to take students from a level where they have basic network theory, to a more applied level where they can use the technologies in an appropriate, economic, and secure manner. This material is intended to address this requirement for award year under-graduates at L7 or 8 or for post-graduates. It is intended to take the student through the basics of common network practice as seen today in SMEs, MEs, large Irish enterprises and multi-national organisations.
 
-In this section of notes, I am going to consider the minimum services we include on every practical network.
+In this sequence of practical work, I want to avoid tying us too closely too any single vendor or technology, however, there is a dark green elephant in the room, and it is unavoidable. We will mention proprietary technologies, but we will not emphasize them. At time of writing, CISCO has a majority market share; for that reason, this part of the course will be based on Cisco technology. Most of these exercises will work on Cisco Packet Tracer, but the preference is to complete then in GNS3. The practical exercises and examples should work with little variation on many common brands of equipment; the syntax may be a little different. Students have previously completed the work using switches and routers by Avaya, Dell, HP, Cumulus, etc. without any difficulty and it can be completed in VIRL/CML or GNS3 or a whole range of simulators. You can also do this with lab equipment should you wish; suitable inexpensive switches are available through on-line vendors.
 
-These notes are based on GNS3, but you can carry these exercises out on real equipment, or in other emulated environments.
+NOTE that when we use simulators, they sometimes do the odd strange and unexplained things!
+
+A final note...
+
+This practical sequence is used as teaching material from late undergraduate to post-graduate level. At this level, many students have experience and knowledge in networking. Feel free to make constructive comments as to how to improve the material; it is modified every semester based on this feedback.
+
+Also ensure you note any errors or lack of clarity you find in the course documentation. These notes originated around 2010, are updated each year (based on technical work back to the 1980s) and I am still finding “optimizations”!
