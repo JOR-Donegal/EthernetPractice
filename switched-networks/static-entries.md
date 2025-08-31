@@ -6,6 +6,6 @@ In some cases, you may want to configure a port to “know” a certain MAC addr
 mac address-table static 0005.5E40.8403 vlan 1 interface gi1/1
 ```
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 We use this knowledge for systems administration and for security.

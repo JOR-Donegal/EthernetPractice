@@ -27,7 +27,7 @@ exit
 exit
 ```
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 _Sticky_ means that the port learns the first MAC address it sees and will show a violation if something else is connected to it.&#x20;
 
@@ -44,7 +44,7 @@ exit
 exit
 </code></pre>
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Can you figure out what the commands I have used do?&#x20;
 

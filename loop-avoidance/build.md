@@ -24,7 +24,7 @@ In every case, there are design considerations which are determined by the site,
 
 Back to our current design!&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 The current network design is fine and might be used on a LAN for an SME or school. However, we would always design such a network as a ring for redundancy.&#x20;
 

@@ -29,8 +29,8 @@ Our business has some standard requirements for separate LANs. We need to segmen
 | 15       | Routers              | 192.168.15.0 | /24        |
 | 16       | Links                | 192.168.16.0 | /24        |
 
-With the current design, we have loop detection and avoidance, with per VLAN spanning tree.&#x20;
+With the current design, we have loop detection and avoidance, with per VLAN spanning tree and a  LAG. The customer has asked for documentation and we want to map the network.
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-However, the link from Switch22 to Switch23 is pegged, we need more bandwidth.
+GNS3 gives us interface labels, the real world does not!

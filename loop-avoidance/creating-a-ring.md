@@ -2,7 +2,7 @@
 
 Add a link between Switch22 and Switch23 as shown.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Run the command **show spanning-tree** on each and try to figure out
 
@@ -27,7 +27,7 @@ From c. 2022 I have been using IOSvL2 switches for these exercises, you should s
 
 When I check, I see that Switch21 is root on all VLANs
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;Automatic selection of the root switch is based on priority and MAC address. But if priority is left as default, this means that the lowest MAC address switch will become root. On most networks, that means the oldest, nastiest, most disreputable switch in a corner of a boiler house!
 

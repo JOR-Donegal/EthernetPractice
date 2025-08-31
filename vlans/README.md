@@ -16,6 +16,6 @@ Only tagged links between switches use these modified Ethernet frames, although 
 
 Briefly research this and try to explain why this might be the case. If a switch receives untagged frames on a tagged switch port, they are assumed to be part of the VLAN that is designated on the switch port as the native VLAN. Frames which egress a switch port on the native VLAN are not tagged.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In a data centre environment, we may use more complex versions of tagging. Do an internet search on the term “Q-in-Q” and understand how you might use it. Demonstrate that you understand this term. 

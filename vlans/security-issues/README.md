@@ -4,7 +4,7 @@ At the moment, some ports have not been configured and by default they sit in VL
 
 Check what ports are currently in VLAN1, it will be the same on all switches.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Discard and Shutdown
 
