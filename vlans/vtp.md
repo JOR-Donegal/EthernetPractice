@@ -12,7 +12,7 @@ VTP only runs over trunks. First, check the current trunk status on Switch23.
 show interface trunk
 ```
 
-To configure VTP, we need to define a VTP domain name on Switch1. This configuration will not be visible in the running or saved configurations.
+To configure VTP, we need to define a VTP domain name on one of the switches, I'll use Switch23. This configuration will not be visible in the running or saved configurations.
 
 ```
 en
